@@ -1,0 +1,7 @@
+{
+  "name": "2026 皮克斯新春派對 - Zootopia 風格賀卡",
+  "description": "上傳照片，將你化身為《動物方程式》風格角色，生成專屬 2026 皮克斯風新年賀圖。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
